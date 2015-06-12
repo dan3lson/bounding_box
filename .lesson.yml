@@ -1,0 +1,9 @@
+---
+title: "Bounding Box"
+type: "challenge"
+description: "Check if a point is inside a region."
+depends: "space-jams"
+visibility: "assign"
+progress_attribute: "systems_check_4"
+ignore:
+- "bounding-box.md"
